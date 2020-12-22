@@ -1,0 +1,7 @@
+# !/bin/bash
+# the first grogram 
+
+print(){
+	echo "Jerry is one of the most man in the world!"
+}
+print;
